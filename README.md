@@ -2,7 +2,7 @@
 ## by Ezerioha Ifeanyi Emmanuel
 
 ## Dataset
-
+https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 
 I converted several variables to a correct datatype (start_time, end_time, start_station_id,bike_id, user_type). And created several additional variables (start_day, end_day, start_day_of_week, end_day_of_week, start_hour, end_hour) to be able to create plots with different time resolutions.
